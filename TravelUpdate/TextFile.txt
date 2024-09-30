@@ -1,0 +1,21 @@
+﻿FunctionalDate
+   //Functional Date
+        public DateTime CreatedAt { get; set; }
+        public DateTime UpdatedAt { get; set; }
+        public DateTime DeletedAt { get; set; }
+
+
+
+
+        namespace TravelUpdate.Models
+{
+    public class BasicDateTime
+    {
+        public DateTime TentativeDate { get; set; }
+        public DateTime ActualDate { get; set; }
+    }
+}
+
+
+
+Raihan Database No Relation And Shorna database No Relation 
